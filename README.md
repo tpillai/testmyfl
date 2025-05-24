@@ -1,5 +1,6 @@
-# testmyfl
-foundry
+Azure AI Foundry : Run Locally 
+
+
 based on https://www.youtube.com/watch?v=1LlRqfsjh9o
 ReadMe_tej.txt
 
