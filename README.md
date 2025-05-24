@@ -8,9 +8,13 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.300-windows
 
 
 PS C:\learn\dotnet\testmyfl>
+
 dotnet add package Microsoft.SemanticKernel.Connectors.OpenAI --prerelease
+
 dotnet build
+
 dotnet run
+
 
 
 foundry model run Phi-3.5-mini-instruct-generic-gpu
