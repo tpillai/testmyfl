@@ -2,7 +2,7 @@ Azure AI Foundry : Run Locally
 
 
 based on https://www.youtube.com/watch?v=1LlRqfsjh9o
-ReadMe_tej.txt
+
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-9.0.300-windows-x64-installer
 
